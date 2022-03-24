@@ -4,6 +4,8 @@ Suomiteemaiset ensihoidon paidat eri arvoille
 Paidan numero 118
 Housujen numero 4
 
+
+
 Arvot:
 
 Ensihoitaja
