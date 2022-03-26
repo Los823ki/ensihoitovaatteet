@@ -1,4 +1,4 @@
-# Ensihoitopaidat
+# Ensihoitovaatteet
 Suomiteemaiset ensihoidon paidat eri arvoille
 
 Paidan numero 118
