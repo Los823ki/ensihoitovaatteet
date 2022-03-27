@@ -1,5 +1,5 @@
 # Ensihoitovaatteet
-Suomiteemaiset ensihoidon paidat eri arvoille
+Suomiteemaiset ensihoidon vaatteet eri arvoille
 
 Paidan numero 118
 
