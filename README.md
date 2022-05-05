@@ -1,32 +1,16 @@
 # Ensihoitovaatteet
 Suomiteemaiset ensihoidon vaatteet eri arvoille
 
-Paidan numero 118
-
-Housujen numero 4
+Paidan numero 118, Housujen numero 4
 
 
-
-Arvot:
-
-Ensihoitaja
-
-Lääkäri
-
-Ylilääkäri
-
-Johtava ylilääkäri
+Arvot: Ensihoitaja, Lääkäri, Ylilääkäri, Johtava ylilääkäri
 
 
-FinnHEMS: 
-Ensihoitaja
-
-Lentäjä
-
-Lääkäri
+FinnHEMS: Ensihoitaja, Lentäjä, Lääkäri
 
 
-
+Jos tarvitset lisää/eri arvoja, ota yhteyttä Discordissa Los823ki#8079
 Saa muokata omiin tarpeisiin. Älä käytä kaupallisesti hyväksi. Modelit ei itse tehty, kreditit tekijöille.
 
 ![image](https://user-images.githubusercontent.com/86854130/159953605-ac4a3c84-97b1-46ca-9611-3db8be1f6574.png)
