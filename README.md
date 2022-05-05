@@ -10,14 +10,21 @@ Housujen numero 4
 Arvot:
 
 Ensihoitaja
+
 Lääkäri
+
 Ylilääkäri
+
 Johtava ylilääkäri
+
 
 FinnHEMS: 
 Ensihoitaja
+
 Lentäjä
+
 Lääkäri
+
 
 
 Saa muokata omiin tarpeisiin. Älä käytä kaupallisesti hyväksi. Modelit ei itse tehty, kreditit tekijöille.
