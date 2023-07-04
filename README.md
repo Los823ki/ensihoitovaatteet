@@ -10,7 +10,7 @@ Arvot: Ensihoitaja, Lääkäri, Ylilääkäri, Johtava ylilääkäri
 FinnHEMS: Ensihoitaja, Lentäjä, Lääkäri
 
 
-Jos tarvitset lisää/eri arvoja, ota yhteyttä Discordissa Los823ki#8079
+Jos tarvitset lisää/eri arvoja, ota yhteyttä Discordissa los823ki
 
 Saa muokata omiin tarpeisiin. Älä käytä kaupallisesti hyväksi. Modelit ei itse tehty, kreditit tekijöille.
 
